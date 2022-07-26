@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Firebase</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_type">Email Kiriting:</string>
+    <string name="hello">Assalomu alaykum</string>
+    <string name="next">Keyingi</string>
+    <string name="password">Istalgan Parol Kiriting</string>
+    <string name="email_or_password">Email yoki parol kiriting!</string>
+    <string name="user">user@gmail.com</string>
+    <string name="request">Request</string>
+    <string name="accept">Accept</string>
+</resources>

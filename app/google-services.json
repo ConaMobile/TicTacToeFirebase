@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "885882822418",
+    "project_id": "tictactoe-f7be6",
+    "storage_bucket": "tictactoe-f7be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885882822418:android:19b34b59ea570f129c5dcb",
+        "android_client_info": {
+          "package_name": "com.conamobile.tictactoefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885882822418-tu9dst57pdb7v9a6c6gte1u0qjujjmmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.conamobile.tictactoefirebase",
+            "certificate_hash": "eb31091071d88cc41517bc25fd135bdabd30d7bf"
+          }
+        },
+        {
+          "client_id": "885882822418-0pdkd63otjh8c39s018nqncq6b34b3ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRhDX6JwqlC_4QP-pH37BBA9jB-TDcevY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885882822418-0pdkd63otjh8c39s018nqncq6b34b3ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
